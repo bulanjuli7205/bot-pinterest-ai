@@ -30,7 +30,7 @@ Gunakan file ini jika Anda hanya ingin menjalankan bot yang memposting konten da
     "keywordFile": "keywords.txt"
   },
   "pinterest": {
-    "boardUrl": "[https://www.pinterest.com/username/nama-board-anda/](https://www.pinterest.com/username/nama-board-anda/)"
+    "boardUrl": "https://www.pinterest.com/username/nama-board-anda/"
   },
   "gemini": {
     "prompt": "Buat judul dan deskripsi singkat...",
@@ -38,7 +38,7 @@ Gunakan file ini jika Anda hanya ingin menjalankan bot yang memposting konten da
     "fallbackDescription": "Temukan lebih banyak ide..."
   },
   "settings": {
-    "destinationLink": "[https://website-atau-blog-anda.com](https://website-atau-blog-anda.com)"
+    "destinationLink": "https://website-atau-blog-anda.com"
   }
 }
 ```
@@ -57,19 +57,19 @@ Gunakan file ini jika Anda ingin menjalankan bot yang bisa mode Pexels, RSS, ata
     "keywordFile": "keywords.txt"
   },
   "rss": {
-    "feedUrl": "[https://website-anda.com/feed.xml](https://website-anda.com/feed.xml)",
-    "startFromLink": "[https://website-anda.com/artikel-patokan.html](https://website-anda.com/artikel-patokan.html)",
+    "feedUrl": "https://website-anda.com/feed",
+    "startFromLink": "https://website-anda.com/artikel-patokan.html",
     "descriptionMode": "AI_WITH_TITLE"
   },
   "pinterest": {
-    "boardUrl": "[https://www.pinterest.com/username/nama-board-anda/](https://www.pinterest.com/username/nama-board-anda/)"
+    "boardUrl": "https://www.pinterest.com/username/nama-board-anda/"
   },
   "gemini": {
     "prompt": "Buat judul...",
     "rssPrompt": "Buat deskripsi pin..."
   },
   "settings": {
-    "destinationLink": "[https://website-atau-blog-anda.com](https://website-atau-blog-anda.com)"
+    "destinationLink": "https://website-atau-blog-anda.com"
   }
 }
 ```
